@@ -1,5 +1,7 @@
 # 💥 Atomic Gains
 
+<img src="https://atomicgains-qd6fdgiuorlb9ulpcnepbf.streamlit.app/logo.png" alt="Atomic Gains Logo" width="200"/>
+
 Welcome to **Atomic Gains** — the tiniest, most absurd fitness tracker in the universe.
 This app takes the smallest actions you do (like breathing, blinking, or walking to the fridge)
 and turns them into scientifically ridiculous *atom-based fitness gains*.
